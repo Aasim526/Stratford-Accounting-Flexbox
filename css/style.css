@@ -22,7 +22,7 @@ html{
 .bg{
     width: 100%;
     height: 100vh;
-    background-image: url("../img/screen_2x.jpg");
+    background-image: url("../img/bg-img.jpg");
     background-size: cover;
     background-position: center;
     justify-content: flex-start;
